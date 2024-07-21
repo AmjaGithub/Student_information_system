@@ -1,0 +1,88 @@
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\bin\Debug\studend information system 1.exe.config
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\bin\Debug\studend information system 1.exe
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\bin\Debug\studend information system 1.pdb
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend information system 1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.loginform.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend information system 1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend information system 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend information system 1.exe
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend information system 1.pdb
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.remove_form.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.student_deatailscs.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.Student_information.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\bin\Debug\school.mdf
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\bin\Debug\school_log.ldf
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.adminpage.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.payment_confirm.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.HOME.resources
+C:\Users\ASUS\Desktop\sliate\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.payment_Checking.resources
+E:\studend information system 1\studend information system 1\bin\Debug\studend information system 1.exe.config
+E:\studend information system 1\studend information system 1\obj\Debug\studend information system 1.exe
+E:\studend information system 1\studend information system 1\obj\Debug\studend information system 1.pdb
+E:\studend information system 1\studend information system 1\bin\Debug\student.mdf
+E:\studend information system 1\studend information system 1\bin\Debug\student_log.ldf
+E:\studend information system 1\studend information system 1\bin\Debug\studend information system 1.exe
+E:\studend information system 1\studend information system 1\bin\Debug\studend information system 1.pdb
+E:\studend information system 1\studend information system 1\bin\Debug\mscorlib.dll
+E:\studend information system 1\studend information system 1\bin\Debug\System.Net.Http.dll
+E:\studend information system 1\studend information system 1\bin\Debug\System.Net.Http.xml
+E:\studend information system 1\studend information system 1\bin\Debug\normidna.nlp
+E:\studend information system 1\studend information system 1\bin\Debug\normnfc.nlp
+E:\studend information system 1\studend information system 1\bin\Debug\normnfd.nlp
+E:\studend information system 1\studend information system 1\bin\Debug\normnfkc.nlp
+E:\studend information system 1\studend information system 1\bin\Debug\normnfkd.nlp
+E:\studend information system 1\studend information system 1\obj\Debug\studend information system 1.csprojResolveAssemblyReference.cache
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.adminpage.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.HOME.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.loginform.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.payment_confirm.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.payment_Checking.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.Properties.Resources.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.remove_form.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.student_deatailscs.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend_information_system_1.Student_information.resources
+E:\studend information system 1\studend information system 1\obj\Debug\studend information system 1.csproj.GenerateResource.Cache
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\studend information system 1.exe.config
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.exe
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.pdb
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\student.mdf
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\student_log.ldf
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\studend information system 1.exe
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\studend information system 1.pdb
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\mscorlib.dll
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\System.Net.Http.dll
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\System.Net.Http.xml
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\normidna.nlp
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\normnfc.nlp
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\normnfd.nlp
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\normnfkc.nlp
+E:\studend information system 1 - Copy\studend information system 1\bin\Debug\normnfkd.nlp
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.csprojResolveAssemblyReference.cache
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.adminpage.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.HOME.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.loginform.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.payment_confirm.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.payment_Checking.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.Properties.Resources.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.remove_form.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.student_deatailscs.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.Student_information.resources
+E:\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\bin\Debug\studend information system 1.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\bin\Debug\studend information system 1.exe
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\bin\Debug\studend information system 1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.adminpage.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.HOME.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.loginform.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.payment_confirm.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.payment_Checking.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.remove_form.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.student_deatailscs.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend_information_system_1.Student_information.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.exe
+C:\Users\ASUS\Documents\Visual Studio 2019\project\studend information system 1 - Copy\studend information system 1\obj\Debug\studend information system 1.pdb
